@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedro-miguel-proença-301a5a226/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Miguel01&show_icons=true&bg_color=00000000)
-
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
